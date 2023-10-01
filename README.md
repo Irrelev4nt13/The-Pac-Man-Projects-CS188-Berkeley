@@ -1,6 +1,8 @@
 # The-Pac-Man-Projects-CS188-Berkeley
 🕹️👻👾👻 In this thrilling AI adventure, we embark on a multi-stage quest to transform Pacman into an intelligent game-playing agent. Across three engaging projects, we explore various facets of artificial intelligence, from basic search algorithms to adversarial competition and reinforcement learning.
 
+![](https://inst.eecs.berkeley.edu/~cs188/sp22/assets/images/pacman_game.gif)
+
 ## [Project 1: Search](https://inst.eecs.berkeley.edu/~cs188/sp22/project1/)
 Our journey begins with Pacman navigating complex mazes. We kick things off by implementing fundamental search algorithms like Depth-First Search and Breadth-First Search. As Pacman quests for optimal paths, we study the intricacies of uninformed search. Then, we take it up a notch with informed search algorithms, employing A* Search with different heuristics to guide Pacman through challenging terrains.
 
